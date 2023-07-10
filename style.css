@@ -62,3 +62,66 @@ button {
     line-height: 22px;
     margin-bottom: 10px;
 }
+.flower-main {
+    margin-top: 79px;
+    display: flex;
+    gap: 30px;
+}
+.flower-box {
+    background-color: #f2dee7;
+    width: 240px;
+    height: 300px;
+    text-align: center;
+    border-radius: 121px 121px   0px 0px;
+}
+.flower-box img {
+    width: 109px;
+    margin-top: 58px;
+    height: 242px;
+}
+.flowers h4 {
+    font-size: 12px;
+    margin-left: 75px;
+    margin-top: 10px;
+    border-bottom: 2px solid;
+    width: 89px;
+}
+.flower-box-2{
+    background-color: #E55473;
+    width: 240px;
+    height: 300px;
+    text-align: center;
+    border-radius: 121px 121px   0px 0px;
+}
+.flower-box-2 img{
+    width: 109px;
+    margin-top: 58px;
+    height: 242px;
+}
+.flower-box-3{
+    background-color: gray;
+    width: 240px;
+    height: 300px;
+    text-align: center;
+    border-radius: 121px 121px   0px 0px;
+}
+.flower-box-3 img{
+    width: 109px;
+    margin-top: 58px;
+    height: 242px;
+
+}
+.flower-title{
+    display: flex;
+    position: relative;
+}
+
+h4.tree-flower {
+    width: 95px;
+    position: absolute;
+    top: 0;
+    left: 548px;
+}
+h4.pink-flower {
+    margin-left: 181px;
+}
