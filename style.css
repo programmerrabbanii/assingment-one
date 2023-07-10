@@ -125,3 +125,73 @@ h4.tree-flower {
 h4.pink-flower {
     margin-left: 181px;
 }
+/* flower-section-end */
+/* servies-section-start */
+
+.services-main {
+    display: flex;
+    padding: 10px 200px;
+    justify-content: space-around;
+    background-color: #2727270D;
+    padding: 80px 0px;
+    width: 850px;
+    margin: auto;
+    border-radius: 5px;
+    margin-bottom: 59px;
+}
+
+.services-box small {
+    position: relative;
+    top: 25px;
+    left: -78px;
+    font-size: 7px;
+}
+.services-box img{
+    width: 40px;
+
+}
+.services-box small {
+    position: relative;
+    top: 25px;
+    left: -120px;
+    font-size: 7px;
+}
+.ser-tile{
+    display: flex;
+    padding: 0px 200px;
+}
+/* services-section-end */
+/* team-section-sart */
+.team{
+    padding: 100px 200px;
+    background-color: #E554730D;
+   
+
+}
+.team-main {
+    display: flex;
+    align-items: center;
+    gap: 51px;
+}
+
+.teame-con h3 {
+    font-size: 35px;
+    margin-bottom: 13px;
+}
+.teame-con p {
+    text-align: center;
+    margin-bottom: 17px;
+}
+.teame-con span{
+    color: #E55473;
+}
+
+.team-btnn {
+    text-align: center;
+    margin-left: 189px;
+    padding: 13px 23px;
+    border: none;
+    text-transform: capitalize;
+    background: #E55473;
+    border-radius: 5px;
+}
