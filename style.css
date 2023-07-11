@@ -2,6 +2,10 @@
     padding: 0;
     margin: 0;
 }
+/* google fonts css link */
+body{
+    font-family: 'Lato', sans-serif;
+}
 /* start-bannar-section */
 .bannar{
     background-image: url(./img/pngwing\ 10.png);
@@ -194,4 +198,85 @@ h4.pink-flower {
     text-transform: capitalize;
     background: #E55473;
     border-radius: 5px;
+}
+/* team-section-end */
+/* social-section-start */
+.social{
+   
+    text-align: center;
+
+}
+.social h4{
+    font-size: 35px;
+    margin-bottom: 11px;
+}
+.social p {
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+.social-main{
+    display: flex;
+    gap: 35px;
+
+}
+.social-box{
+    width: 259px;
+    height: 318px;
+
+}
+.social-box img {
+    width: 259px;
+    height: 318px;
+}
+/* social-section-end */
+/* form-section-start */
+.form{
+    padding: 100px 200px;
+
+}
+.form-main{
+    background-image: url(./img/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 78px 0;
+    text-align: center;
+}
+
+.form-inner h4 {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.form-inner h5 {
+    font-size: 15px;
+    margin-bottom: 21px;
+}
+
+.fo-btn {
+    padding: 14px;
+    border: none;
+    border-radius: 6px;
+    width: 50%;
+}
+/* form-section-end */
+/* footer-section-start */
+footer{
+    padding: 40px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+footer h4 {
+    font-size: 33px;
+    margin-bottom: 10px;
+}
+footer h5 {
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+footer h6{
+
+}
+
+footer span{
+    color: #E55473;
 }
